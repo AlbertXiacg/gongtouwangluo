@@ -1,13 +1,13 @@
 //
-//  ViewController.h
+//  TestClass.h
 //  GitDemo
 //
 //  Created by appale2 on 14-9-18.
 //  Copyright (c) 2014年 Appcoda. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "TestClass.h"
-@interface ViewController : UIViewController
+#import <Foundation/Foundation.h>
+
+@interface TestClass : NSObject
 
 @end
